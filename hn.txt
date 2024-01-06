@@ -1,5 +1,4 @@
-
-CCTV1-综合，http://jhb.sihanlin.top:9901/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV1综合，http://jhb.sihanlin.top:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2-财经,http://jhb.sihanlin.top:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV3-综艺,http://jhb.sihanlin.top:9901/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV4-国际，http://jhb.sihanlin.top:9901/tsfile/live/0004_1.m3u8?key=txiptv
