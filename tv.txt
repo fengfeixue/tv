@@ -59,8 +59,8 @@ CCTV-6电影,http://39.134.65.181/PLTV/88888888/224/3221225814/index.m3u8
 CCTV-6电影,http://39.134.65.173/PLTV/88888888/224/3221225814/index.m3u8    
 CCTV-6电影,http://39.134.65.183/PLTV/88888888/224/3221225814/index.m3u8    
 CCTV-6电影,http://39.134.65.175/PLTV/88888888/224/3221225814/index.m3u8    
-CCTV-6电影,http://39.134.65.177/PLTV/88888888/224/3221225814/index.m3u8 
-CCTV-7国防军事,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226175/index.m3u8
+CCTV-6电影,http://39.134.65.177/PLTV/88888888/224/3221225814/index.m3u8
+CCTV-7国防军事，http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226175/index.m3u8
 CCTV-7国防军事,http://39.134.61.219/PLTV/88888888/224/3221226925/index.m3u8
 CCTV-7国防军事,http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
 CCTV-7国防军事,http://39.134.65.179/PLTV/88888888/224/3221225671/index.m3u8    
@@ -68,10 +68,10 @@ CCTV-7国防军事,http://39.134.65.164/PLTV/88888888/224/3221225671/index.m3u8
 CCTV-7国防军事,http://39.134.65.181/PLTV/88888888/224/3221225671/index.m3u8    
 CCTV-7国防军事,http://39.134.65.173/PLTV/88888888/224/3221225671/index.m3u8    
 CCTV-7国防军事,http://39.134.65.183/PLTV/88888888/224/3221225671/index.m3u8    
-CCTV-7国防军事,http://39.134.66.2/PLTV/88888888/224/3221225671/index.m3u8 
-CCTV-8电视剧,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227102/index.m3u8
-CCTV-8电视剧,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227248/index.m3u8
-CCTV-8电视剧,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227325/index.m3u8
+CCTV-7国防军事，http://39.134.66.2/PLTV/88888888/224/3221225671/index.m3u8
+CCTV-8电视剧，http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227102/index.m3u8
+CCTV-8电视剧，http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227248/index.m3u8
+CCTV-8电视剧，http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227325/index.m3u8
 CCTV-8电视剧http://39.134.61.219/PLTV/88888888/224/3221226804/index.m3u8
 CCTV-8电视剧http://39.134.61.219/PLTV/88888888/224/3221226902/index.m3u8
 CCTV-8电视剧http://39.134.61.219/PLTV/88888888/224/3221226946/index.m3u8
@@ -83,7 +83,7 @@ CCTV-8电视剧http://39.134.65.177/PLTV/88888888/224/3221225795/index.m3u8
 CCTV-9纪录,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226734/index.m3u8
 CCTV-9纪录,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226174/index.m3u8
 CCTV-9纪录,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226734/index.m3u8
-CCTV-9纪录,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227337/index.m3u8
+CCTV-9记录,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227337/index.m3u8
 CCTV-9纪录,http://39.134.61.219/PLTV/88888888/224/3221226470/index.m3u8
 CCTV-9纪录,http://39.134.61.219/PLTV/88888888/224/3221226849/index.m3u8
 CCTV-9纪录,http://39.134.61.219/PLTV/88888888/224/3221226976/index.m3u8
@@ -101,7 +101,7 @@ CCTV-10科教,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226184/index.m3
 CCTV-10科教,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227321/index.m3u8
 CCTV-10科教,http://39.134.61.219/PLTV/88888888/224/3221226904/index.m3u8
 CCTV-10科教,http://39.134.61.219/PLTV/88888888/224/3221226966/index.m3u8
-CCTV-10科教,http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8 
+CCTV-10科教,http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8
 CCTV-10科教,http://39.134.65.179/PLTV/88888888/224/3221225677/index.m3u8    
 CCTV-10科教,http://39.134.65.164/PLTV/88888888/224/3221225677/index.m3u8    
 CCTV-10科教,http://39.134.65.166/PLTV/88888888/224/3221225677/index.m3u8    
@@ -1296,8 +1296,3 @@ XVIDEO 47,http://78.159.119.122:2082/Tourobox1-FZQ0ZObKLF/sMlxBARyA4/1234
 XVIDEO 48,http://78.159.119.122:2082/Tourobox1-FZQ0ZObKLF/sMlxBARyA4/1235
 XVIDEO 49,http://78.159.119.122:2082/Tourobox1-FZQ0ZObKLF/sMlxBARyA4/1236
 XVIDEO 50,http://78.159.119.122:2082/Tourobox1-FZQ0ZObKLF/sMlxBARyA4/1237
-
-
-
-
-
